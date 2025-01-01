@@ -24,9 +24,10 @@ I'm a software developer with a keen interest in web development, machine learni
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/yagnikpipaliya)
-- [Twitter](https://twitter.com/yagnikpipaliya)
-- [Portfolio](https://yagnikpipaliya.dev)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yagnikpipaliya)
+[![Twitter](https://img.shields.io/badge/-Twitter-blue?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/yagnikpipaliya)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-black?style=flat&logo=github&logoColor=white)](https://yagnikpipaliya.dev)
+
 
 ## 🏆 Projects
 
