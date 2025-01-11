@@ -18,6 +18,9 @@ I'm a software developer with a keen interest in web development, machine learni
 - **Databases:** MySQL, MongoDB, PostgreSQL
 - **Tools:** Git, Docker, Kubernetes, VS Code
 
+## 📈 Daily.dev Stats
+<a href="https://app.daily.dev/yagnikpipaliya"><img src="https://api.daily.dev/devcards/v2/YWSXGI1qBOcotqHpYE70V.png?r=kwv&type=default" width="356" alt="Yagnik Pipaliya's Dev Card"/></a>
+
 ## 📈 GitHub Stats
 
 ![Yagnik's GitHub stats](https://github-readme-stats.vercel.app/api?username=yagnikpipaliya-fablead&show_icons=true&theme=radical)
